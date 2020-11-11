@@ -1,0 +1,79 @@
+Start processing imgall/sample_59178.jpg
+imgall/sample_59178.jpg: Predicted in 7337.640000 milli-seconds.
+End
+Start processing imgall/sample_34773.jpg
+imgall/sample_34773.jpg: Predicted in 7376.639000 milli-seconds.
+End
+Start processing imgall/sample_24908.jpg
+imgall/sample_24908.jpg: Predicted in 7412.858000 milli-seconds.
+End
+Start processing imgall/sample_18922.jpg
+imgall/sample_18922.jpg: Predicted in 7424.998000 milli-seconds.
+End
+Start processing imgall/sample_31653.jpg
+imgall/sample_31653.jpg: Predicted in 7311.578000 milli-seconds.
+lca: 90.681282%	left_x:   18	top_y:   33	width:   18	height:   30
+End
+Start processing imgall/sample_17341.jpg
+imgall/sample_17341.jpg: Predicted in 7418.365000 milli-seconds.
+End
+Start processing imgall/sample_11440.jpg
+imgall/sample_11440.jpg: Predicted in 7365.160000 milli-seconds.
+lca: 66.567978%	left_x:   54	top_y:   34	width:   18	height:   23
+lca: 33.219677%	left_x:   74	top_y:   15	width:   23	height:   22
+End
+Start processing imgall/sample_65502.jpg
+imgall/sample_65502.jpg: Predicted in 7298.261000 milli-seconds.
+End
+Start processing imgall/sample_70123.jpg
+imgall/sample_70123.jpg: Predicted in 7342.280000 milli-seconds.
+End
+Start processing imgall/sample_45504.jpg
+imgall/sample_45504.jpg: Predicted in 7368.210000 milli-seconds.
+End
+Start processing imgall/sample_25481.jpg
+imgall/sample_25481.jpg: Predicted in 7312.785000 milli-seconds.
+End
+Start processing imgall/sample_69657.jpg
+imgall/sample_69657.jpg: Predicted in 7285.083000 milli-seconds.
+End
+Start processing imgall/sample_66856.jpg
+imgall/sample_66856.jpg: Predicted in 7299.629000 milli-seconds.
+End
+Start processing imgall/sample_27749.jpg
+imgall/sample_27749.jpg: Predicted in 7330.077000 milli-seconds.
+End
+Start processing imgall/sample_58925.jpg
+imgall/sample_58925.jpg: Predicted in 7365.456000 milli-seconds.
+End
+Start processing imgall/sample_11652.jpg
+imgall/sample_11652.jpg: Predicted in 7322.075000 milli-seconds.
+End
+Start processing imgall/sample_40479.jpg
+imgall/sample_40479.jpg: Predicted in 7394.387000 milli-seconds.
+End
+Start processing imgall/sample_29723.jpg
+imgall/sample_29723.jpg: Predicted in 7470.266000 milli-seconds.
+End
+Start processing imgall/sample_23803.jpg
+imgall/sample_23803.jpg: Predicted in 7598.061000 milli-seconds.
+End
+Start processing imgall/sample_1639.jpg
+imgall/sample_1639.jpg: Predicted in 7597.516000 milli-seconds.
+End
+Start processing imgall/sample_49618.jpg
+imgall/sample_49618.jpg: Predicted in 7410.671000 milli-seconds.
+End
+Start processing imgall/sample_31417.jpg
+imgall/sample_31417.jpg: Predicted in 7441.008000 milli-seconds.
+End
+Start processing imgall/sample_27498.jpg
+imgall/sample_27498.jpg: Predicted in 7479.447000 milli-seconds.
+End
+Start processing imgall/sample_68158.jpg
+imgall/sample_68158.jpg: Predicted in 7339.085000 milli-seconds.
+End
+Start processing imgall/sample_40452.jpg
+imgall/sample_40452.jpg: Predicted in 7426.670000 milli-seconds.
+lca: 66.658073%	left_x:    1	top_y:   38	width:   19	height:   28
+End
