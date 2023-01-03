@@ -1,9 +1,9 @@
--0.0000003532 #X-cell size
-0.0000000026 # rotation (usually 0)
-0.0000000031 # rotation (usually 0)
-0.0000002976 # Y-cell size (always negative)
--51.7086484997 #Upper left X
--19.7361691253 Upper left Y
+-0.0000003532,#X-cell size
+0.0000000026,# rotation (usually 0)
+0.0000000031,# rotation (usually 0)
+0.0000002976,# Y-cell size (always negative)
+-51.7086484997,#Upper left X
+-19.7361691253,Upper left Y
 
 
 
