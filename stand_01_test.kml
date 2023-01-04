@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="stand_01_test" id="stand_01_test">
+	<SimpleField name="COMPANY" type="string"></SimpleField>
+	<SimpleField name="FARM" type="string"></SimpleField>
+	<SimpleField name="ID_STAND" type="string"></SimpleField>
+	<SimpleField name="YEAR_PLANT" type="string"></SimpleField>
+</Schema>
+<Folder><name>stand_01_test</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#stand_01_test">
+		<SimpleData name="COMPANY">MAHAL</SimpleData>
+		<SimpleData name="FARM">LIBERDADE_2</SimpleData>
+		<SimpleData name="ID_STAND">LIBERDADE_2_323</SimpleData>
+		<SimpleData name="YEAR_PLANT">2011</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-51.7082331233599,-19.7360698297588 -51.7087798706945,-19.7361969885002 -51.7093028165717,-19.7362914460933 -51.709364010041,-19.7363284972623 -51.7095933362634,-19.736451378828 -51.7100479651414,-19.7364642894953 -51.7102948137546,-19.736392953472 -51.7107050206201,-19.7362469431419 -51.710995959396,-19.7361563373451 -51.7111750809652,-19.7362041974657 -51.7113517797608,-19.7364902385336 -51.7113725990662,-19.7364515496992 -51.7114089793409,-19.7363839458624 -51.7115322817893,-19.7361548120949 -51.7116181319712,-19.7359952759612 -51.7118862018867,-19.7354971180975 -51.7118271515018,-19.7354675241069 -51.7092997597761,-19.7342008766691 -51.7082578493203,-19.7358545446515 -51.7081485484167,-19.7360217205259 -51.7082331233599,-19.7360698297588</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
